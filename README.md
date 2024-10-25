@@ -48,6 +48,7 @@ Once opened in your browser, you can navigate the platform just as a user would.
 
 Installation
 To set up this project locally:
+ This Repository contains a READ-Me file and a html foldernamed Bankign website-Team Swiss containing all the files and docs of the banking website open and run the same 
 
 1.	Clone this repository
 git clone https://github.com/your-username/swiss-bank-of-india.git
