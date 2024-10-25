@@ -46,9 +46,13 @@ Usage
 
 Once opened in your browser, you can navigate the platform just as a user would. The links across all 45+ pages are interlinked, making the platform intuitive and simple to navigate. Each page is designed with functionality and user experience in mind, ensuring users can quickly find the services they need.
 
+Additional Point 
+Unlike many other platforms, our site boasts smooth navigation across its 45+ interconnected pages, each crafted with user-friendly layouts, advanced CSS animations, and effortless transitions.
+This platform’s enhanced UI and engaging design make it not only easy to use but also visually appealing. Users can explore a full range of banking services
+
 Installation
 To set up this project locally:
- This Repository contains a READ-Me file and a html foldernamed Bankign website-Team Swiss containing all the files and docs of the banking website open and run the same 
+This Repository contains a READ-Me file and a html foldernamed Bankinn website-Team Swiss containing all the files and docs of the banking website open and run the same 
 
 1.	Clone this repository
 git clone https://github.com/your-username/swiss-bank-of-india.git
@@ -63,7 +67,9 @@ Developers
 This project was developed by:
 
 •	Vikas Gajanan Mule - viksmule356@gmail.com
+
 •	Pavitra B. Salagatii - pavitrabs68@gmail.com
+
 Feel free to reach out to us with questions or suggestions!
 
 
