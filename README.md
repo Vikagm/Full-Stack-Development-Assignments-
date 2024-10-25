@@ -55,7 +55,7 @@ To set up this project locally:
 This Repository contains a READ-Me file and a html foldernamed Bankinn website-Team Swiss containing all the files and docs of the banking website open and run the same 
 
 1.	Clone this repository
-git clone https://github.com/your-username/swiss-bank-of-india.git
+git clone https:https://github.com/Vikagm/Full-Stack-Development-Assignments-.git
 
 3.	Navigate to the project directory.
 cd swiss-bank-of-india
